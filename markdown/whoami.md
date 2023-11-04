@@ -5,8 +5,13 @@
 
 --
 
-# And I Am ...
+<h1 class="r-fit-text">And I Am ...</h2>
 
 --
 
-A ...
+<h1 class="r-fit-text">A ...</h2>
+
+--
+## Computer Programmer
+
+<img src="images/programmer2.png">
