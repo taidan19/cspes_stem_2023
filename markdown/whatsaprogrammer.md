@@ -85,7 +85,7 @@ All sorts of things!!
 
 https://codepen.io/peanav/pen/DmZEEp
 https://www.online-python.com/
-https://arcade.makecode.com/--skillmap#story
+https://arcade.makecode.com/
 
 ---
 
