@@ -54,11 +54,6 @@ Why can't we just talk to it like a person?
 
 ---
 
-## Example - Real Code
-
-
----
-
 ## What Can We Use Code For?
 
 All sorts of things!!
@@ -78,6 +73,19 @@ All sorts of things!!
 * Make drawings and animations
 * Create Visual Effects for Movies
 * Make music
+
+--
+
+* To help solve problems
+* To make useful things
+
+---
+
+## Example - Real Code
+
+https://codepen.io/peanav/pen/DmZEEp
+https://www.online-python.com/
+https://arcade.makecode.com/--skillmap#story
 
 ---
 
@@ -126,34 +134,13 @@ These puzzles are easier to solve when you have a strong sense of creativity and
 
 ---
 
-## Coding is Cool!
+## Why is STEAM Important?
 
-Even if you don't want to have a job doing coding, it's a cool skill to have
-
---
-
-## For Fun
-
-You can use it to make fun games, or express yourself through art
-
---
-
-## To Help
-
-You can make things that can help you throughout your life
-
---
-
-## To Solve
-
-You can use it to solve tough problems
+* It gives us important skills
+* It makes us well rounded
+* It makes us curious about the world
+* It gives us skills to express ourselves
 
 ---
 
-## Conclusion
-
-Coding is fun!
-
-You need a good STEAM education to learn to code
-
-A good STEAM education is good for everyone
+## Conclusion & Questions
