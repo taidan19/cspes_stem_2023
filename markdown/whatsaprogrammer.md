@@ -89,7 +89,7 @@ https://arcade.makecode.com/
 
 ---
 
-## How I use STEAM
+## How Programmers use STEAM
 
 Programmers have to use a lot of STEAM skills
 
@@ -109,7 +109,7 @@ Knowing math makes it easier to read and write code
 
 ## Logic
 
-STEM teaches you how to use logic
+STEAM teaches you how to use logic
 
 Programmers use logic _all_ the time
 
@@ -117,7 +117,7 @@ Programmers use logic _all_ the time
 
 ## "Domain Knowledge"
 
-Sometimes programmers have to write code to help to other science
+Sometimes programmers have to write code to help to scientists and engineers
 
 * ie. Code to help a biologist or an astronomer
 * It's useful to know understand some of their "domain", AKA it's useful to know a little bit about biology, outer space, etc
@@ -132,9 +132,17 @@ It's kind of like solving a puzzle
 
 These puzzles are easier to solve when you have a strong sense of creativity and imagination
 
+--
+
+## The Arts (continued)
+
+Sometimes it's important to be able to express yourself in your code
+
+Engaging in the arts helps us learn _how_ to express ourselves
+
 ---
 
-## Why is STEAM Important?
+## Why is STEAM Important in General?
 
 * It gives us important skills
 * It makes us well rounded
